@@ -42,7 +42,8 @@ h1 sub
 	line-height: 0.8em;
 }
 
-div.troopers {
+p.troopers {
+	width : 540px;
 	margin-top: 40px;
 }
 
@@ -54,19 +55,19 @@ img.trooper {
 #falcon {
 	position : absolute;
 	left : 5%;
-	top : 70%;
+	top : 56%;
 }
 
 #tie {
 	position : absolute;
 	right : 5%;
-	top : 70%;
+	top : 47%;
 }
 
 #xwing {
 	position : absolute;
 	left : 7%;
-	top : 3%;
+	top : 11%;
 }
 
 #deathstar {
